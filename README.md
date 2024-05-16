@@ -5,4 +5,4 @@ Use Case: Determine the strength level of a password entered during user registr
 Model Creation Process:<br><br>
 
 <li>Data preprocessing and analysis
-<li></li>Application of natural language processing (NLP) and machine learning techniques
+<li>Application of natural language processing (NLP) and machine learning techniques
